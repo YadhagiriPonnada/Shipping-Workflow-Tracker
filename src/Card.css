@@ -3,21 +3,26 @@
   font-size: 12px;
   padding: 20px;
   margin-bottom: 10px;
+  color: black;
+  font-weight: bold;
 }
 
 .Card-grey {
   background-color: rgba(167, 158, 158, 0.671);
-  color: black;
+  color: white;
+  font-weight: bold;
 }
 
 .Card-blue {
   background-color: skyblue;
-  color: white;
+  color: black;
+  font-weight: bold;
 }
 
 .Card-green {
   background-color: rgb(150, 190, 150);
-  color: white;
+  color: black;
+  font-weight: bold;
 }
 
 .Card-title {
